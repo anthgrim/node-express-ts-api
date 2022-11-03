@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Very foggy"
+    },
+    {
+        "id": 2,
+        "date": "2018-02-02",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "Very bright"
+    },
+    {
+        "id": 3,
+        "date": "2019-03-03",
+        "weather": "windy",
+        "visibility": "ok",
+        "comment": "Very cold"
+    }
+]
